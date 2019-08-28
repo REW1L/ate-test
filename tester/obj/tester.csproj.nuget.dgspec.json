@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\tester\\tester\\tester.csproj": {}
+  },
+  "projects": {
+    "E:\\tester\\tester\\tester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tester\\tester\\tester.csproj",
+        "projectName": "tester",
+        "projectPath": "E:\\tester\\tester\\tester.csproj",
+        "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
+        "outputPath": "E:\\tester\\tester\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GtkSharp": {
+              "target": "Package",
+              "version": "[3.22.25.24, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

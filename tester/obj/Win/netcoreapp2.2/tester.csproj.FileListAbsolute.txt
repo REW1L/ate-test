@@ -1,0 +1,11 @@
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.csproj.CoreCompileInputs.cache
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.AssemblyInfoInputs.cache
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.AssemblyInfo.cs
+E:\tester\tester\bin\Win\netcoreapp2.2\tester.deps.json
+E:\tester\tester\bin\Win\netcoreapp2.2\tester.runtimeconfig.json
+E:\tester\tester\bin\Win\netcoreapp2.2\tester.runtimeconfig.dev.json
+E:\tester\tester\bin\Win\netcoreapp2.2\tester.dll
+E:\tester\tester\bin\Win\netcoreapp2.2\tester.pdb
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.dll
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.pdb
+E:\tester\tester\obj\Win\netcoreapp2.2\tester.csprojAssemblyReference.cache
